@@ -1,12 +1,12 @@
-# toolkit
+# Toolkit
 A Toolkit for shell
 
-##Installation
+## Installation
 
-####1.
+#### 1.
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/krinsofficial/toolkit/master/install.sh)"`
 
-####2.
+#### 2.
 `wget https://raw.githubusercontent.com/krinsofficial/toolkit/master/install.sh -O - | sh`
 
-
+##### End
