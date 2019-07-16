@@ -18,4 +18,4 @@ echo "\033[32m 99999999999999999999999999999999999999999999999999999999999999999
 echo "\033[33m Starting... \033[0m"
 git clone https://github.com/krinsofficial/toolkit.git
 echo "\033[33m ---------------------------------------------- \033[0m"
-tree toolkit && echo "\033[33m Unzipping... \033[0m" && unzip toolkit/exe.zip -d toolkit && tree toolkit && chmod 777 -R toolkit && echo "\033[33m Installing... \033[0m" && rm -rf toolkit/README.md && rm -rf toolkit/install.sh && rm -rf toolkit/exe.zip && mv toolkit/* ../usr/bin/ && echo "\033[33m Success! \033[5m"
+tree toolkit && echo "\033[33m Unzipping... \033[0m" && unzip toolkit/exe.zip -d toolkit && tree toolkit && chmod 777 -R toolkit && echo "\033[33m Installing... \033[0m" && rm -rf toolkit/README.md && rm -rf toolkit/install.sh && rm -rf toolkit/exe.zip && mv toolkit/* ../usr/bin/ && echo "\033[33m Success! \033[5m" && rm -rf toolkit
