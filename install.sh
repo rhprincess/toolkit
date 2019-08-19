@@ -15,6 +15,8 @@ echo "\033[32m o 200l     l000l       1602o           100l        o6061   10021 
 echo "\033[32m l                                                                                  ol \033[5m"
 echo "\033[32m 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999 \033[5m"
 
+echo "New Version: add a deb package tool,usage: deb-get [lib]"
+
 echo "\033[33m Starting... \033[0m"
 git clone https://github.com/krinsofficial/toolkit.git
 echo "\033[33m ---------------------------------------------- \033[0m"
