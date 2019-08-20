@@ -13,4 +13,6 @@ A Toolkit for shell
 #### 2. Wget
 `wget https://raw.githubusercontent.com/krinsofficial/toolkit/master/install.sh -O - | sh`
 
-##### End
+## Uninstallation
+
+type `uninstall` in terminal
