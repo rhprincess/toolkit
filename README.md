@@ -1,7 +1,8 @@
 # Toolkit
 A Toolkit for shell
-(Now Included) :
-# 1. deb-get
+
+###### (Now Included) :
+###### 1. deb-get
 `deb-get [lib_name]`
 
 ## Installation
