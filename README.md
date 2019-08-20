@@ -3,7 +3,7 @@ A Toolkit for shell
 
 ###### (Now Included) :
 ###### 1. deb-get
-`deb-get [lib_name]`
+`deb-get [lib_name] [platform] [save_path]`
 
 ## Installation
 
