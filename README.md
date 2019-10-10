@@ -1,5 +1,4 @@
 # Toolkit
-A Toolkit for shell
 
 ###### (Now Included) :
 ###### 1. deb-get
